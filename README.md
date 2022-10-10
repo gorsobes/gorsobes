@@ -7,13 +7,13 @@
 <br>
 
 <img src="https://www.codewars.com/users/gorsobes/badges/micro" />
-**Talking about Personal Stuffs:**</br>
+**Talking about Personal Stuffs:**
+</br>
 - 💬 Ask me about anything, I am happy to help;</br>
 - 📫 How to reach me: gorsobes@yandex.ru;</br>
 </br>
 
 📈 **My GitHub Stats:**
-
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gorsobes&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorsobes&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
