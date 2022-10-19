@@ -9,8 +9,8 @@
 <img src="https://www.codewars.com/users/gorsobes/badges/micro" />
 <b>Talking about Personal Stuffs:</b>
 </br>
-- 💬 Ask me about anything, I am happy to help</br>
-- 📫 How to reach me: <a href="mailto:gorsobes@yandex.ru">gorsobes@yandex.ru</a></br>
+💬 Ask me about anything, I am happy to help</br>
+📫 How to reach me: <a href="mailto:gorsobes@yandex.ru">gorsobes@yandex.ru</a></br>
 </br>
 
 📈 **My GitHub Stats:**
