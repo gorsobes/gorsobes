@@ -11,6 +11,7 @@
 </br>
 💬 Ask me about anything, I am happy to help</br>
 📫 How to reach me: <a href="mailto:gorsobes@yandex.ru">gorsobes@yandex.ru</a></br>
+📝 Resume.
 </br>
 
 📈 **My GitHub Stats:**
