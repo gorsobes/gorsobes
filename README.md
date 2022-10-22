@@ -11,7 +11,7 @@
 </br>
 💬 Ask me about anything, I am happy to help</br>
 📫 How to reach me: <a href="mailto:gorsobes@yandex.ru">gorsobes@yandex.ru</a></br>
-📝 Resume.
+📝 <a href="https://resume-2022-maxim.vercel.app/" rel="nofollow">Resume</a></br>
 </br>
 
 📈 **My GitHub Stats:**
