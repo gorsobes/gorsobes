@@ -7,6 +7,7 @@
 <br>
 
 <img src="https://www.codewars.com/users/gorsobes/badges/micro" />
+<img src="https://leetcode.com/gorsobes/" />
 <b>Talking about Personal Stuffs:</b>
 </br>
 💬 Ask me about anything, I am happy to help</br>
