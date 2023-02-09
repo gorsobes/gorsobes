@@ -7,7 +7,6 @@
 </br>
 
 <img src="https://www.codewars.com/users/gorsobes/badges/micro" />
-</br>
 <div dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/13b8fdd93ab46c4ff41f3d8e83f0eaafb503cfa2dc86744cb01b267c2dc01d54/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f312f31392f4c656574436f64655f6c6f676f5f626c61636b2e706e67"><img src="https://camo.githubusercontent.com/13b8fdd93ab46c4ff41f3d8e83f0eaafb503cfa2dc86744cb01b267c2dc01d54/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f312f31392f4c656574436f64655f6c6f676f5f626c61636b2e706e67" width="20" height="20" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" style="max-width: 100%;"></a> <a href="https://leetcode.com/gorsobes/" rel="nofollow" target="_blank"><b> LeetCode</b></a></div>
 </br>
 <b>Talking about Personal Stuffs:</b>
