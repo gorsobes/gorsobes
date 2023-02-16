@@ -15,6 +15,7 @@
 📫 How to reach me: <a href="mailto:gorsobes@yandex.ru">gorsobes@yandex.ru</a></br>
 📝 <a href="https://resume-2022-maxim.vercel.app/" rel="nofollow">Resume</a></br>
 </br>
+<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fresume-2022-maxim.vercel.app%2F&4&0" width="148" height="148" border="0" title="QR код"></a>
 
 📈 **My GitHub Stats:**
 <p>
